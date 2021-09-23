@@ -1,0 +1,11 @@
+C:\Users\Munique\source\repos\CustomerDemo\CustomerCore\bin\Debug\net5.0\CustomerCore.deps.json
+C:\Users\Munique\source\repos\CustomerDemo\CustomerCore\bin\Debug\net5.0\CustomerCore.dll
+C:\Users\Munique\source\repos\CustomerDemo\CustomerCore\bin\Debug\net5.0\ref\CustomerCore.dll
+C:\Users\Munique\source\repos\CustomerDemo\CustomerCore\bin\Debug\net5.0\CustomerCore.pdb
+C:\Users\Munique\source\repos\CustomerDemo\CustomerCore\obj\Debug\net5.0\CustomerCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Munique\source\repos\CustomerDemo\CustomerCore\obj\Debug\net5.0\CustomerCore.AssemblyInfoInputs.cache
+C:\Users\Munique\source\repos\CustomerDemo\CustomerCore\obj\Debug\net5.0\CustomerCore.AssemblyInfo.cs
+C:\Users\Munique\source\repos\CustomerDemo\CustomerCore\obj\Debug\net5.0\CustomerCore.csproj.CoreCompileInputs.cache
+C:\Users\Munique\source\repos\CustomerDemo\CustomerCore\obj\Debug\net5.0\CustomerCore.dll
+C:\Users\Munique\source\repos\CustomerDemo\CustomerCore\obj\Debug\net5.0\ref\CustomerCore.dll
+C:\Users\Munique\source\repos\CustomerDemo\CustomerCore\obj\Debug\net5.0\CustomerCore.pdb

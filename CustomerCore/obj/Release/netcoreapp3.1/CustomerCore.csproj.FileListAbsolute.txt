@@ -1,0 +1,10 @@
+C:\Users\Munique\source\repos\CustomerDemo\CustomerCore\bin\Release\netcoreapp3.1\CustomerCore.deps.json
+C:\Users\Munique\source\repos\CustomerDemo\CustomerCore\bin\Release\netcoreapp3.1\CustomerCore.dll
+C:\Users\Munique\source\repos\CustomerDemo\CustomerCore\bin\Release\netcoreapp3.1\CustomerCore.pdb
+C:\Users\Munique\source\repos\CustomerDemo\CustomerCore\obj\Release\netcoreapp3.1\CustomerCore.csproj.AssemblyReference.cache
+C:\Users\Munique\source\repos\CustomerDemo\CustomerCore\obj\Release\netcoreapp3.1\CustomerCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Munique\source\repos\CustomerDemo\CustomerCore\obj\Release\netcoreapp3.1\CustomerCore.AssemblyInfoInputs.cache
+C:\Users\Munique\source\repos\CustomerDemo\CustomerCore\obj\Release\netcoreapp3.1\CustomerCore.AssemblyInfo.cs
+C:\Users\Munique\source\repos\CustomerDemo\CustomerCore\obj\Release\netcoreapp3.1\CustomerCore.csproj.CoreCompileInputs.cache
+C:\Users\Munique\source\repos\CustomerDemo\CustomerCore\obj\Release\netcoreapp3.1\CustomerCore.dll
+C:\Users\Munique\source\repos\CustomerDemo\CustomerCore\obj\Release\netcoreapp3.1\CustomerCore.pdb
